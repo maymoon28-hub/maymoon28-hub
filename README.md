@@ -1,5 +1,8 @@
 # 💫 About Me:
-Data Analyst  | Data Scientist  | Python - Java - Excel - Power BI - SQL
+- Data Analyst | Data Scientist 
+- Currently pursuing Bsc in Data Science and AI at University of Stirling, RAK
+- Skilled in Python, Java, Excel, Power BI, SQL and learning more
+- Do check out my projects in my repositories 
 
 
 ## 🌐 Socials:
@@ -24,4 +27,4 @@ Data Analyst  | Data Scientist  | Python - Java - Excel - Power BI - SQL
 ---
 [![](https://komarev.com/ghpvc/?username=maymoon28-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
